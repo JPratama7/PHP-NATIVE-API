@@ -1,0 +1,1858 @@
+Array
+(
+    [data] => Array
+        (
+            [0] => Array
+                (
+                    [poster] => https://i2.wp.com/terbit21.co/wp-content/uploads/2020/05/fqLFW8StQziOU36BD3EEO5l0mm6.jpg
+                    [rating] => 7.3
+                    [quality] => HD
+                    [categories] => Drama,History,Hong Kong,BluRay,720,Indonesia,2018
+                    [downloadLink] => https://t21.press/download/no-1-chung-ying-street-2018/
+                    [options] => Array
+                        (
+                            [@context] => http://schema.org
+                            [@id] => https://149.56.198.206/no-1-chung-ying-street-2018/
+                            [@type] => Movie
+                            [name] => No. 1 Chung Ying Street (2018)
+                            [url] => https://149.56.198.206/no-1-chung-ying-street-2018/
+                            [image] => https://149.56.198.206/wp-content/uploads/2020/05/fqLFW8StQziOU36BD3EEO5l0mm6.jpg
+                            [datePublished] => 2020-05-08T21:15:32+07:00
+                            [sameAs] => http://www.imdb.com/title/tt7473032/
+                            [director] => Array
+                                (
+                                    [0] => Array
+                                        (
+                                            [@type] => Person
+                                            [name] => Derek Chiu
+                                        )
+
+                                )
+
+                            [genre] => Array
+                                (
+                                    [0] => Drama
+                                )
+
+                            [dateCreated] => 2018-05-30
+                            [duration] => PT120M
+                            [aggregateRating] => Array
+                                (
+                                    [@type] => AggregateRating
+                                    [ratingValue] => 7.3
+                                    [reviewCount] => 3
+                                    [bestRating] => 10
+                                    [worstRating] => 1
+                                )
+
+                            [hasPart] => Array
+                                (
+                                    [@type] => Clip
+                                    [description] => trailer
+                                    [potentialAction] => Array
+                                        (
+                                            [@type] => WatchAction
+                                            [target] => Array
+                                                (
+                                                    [0] => Array
+                                                        (
+                                                            [@type] => EntryPoint
+                                                            [urlTemplate] => https://www.youtube.com/watch?v=odleMxMPM9A
+                                                            [inLanguage] => en
+                                                            [actionPlatform] => Array
+                                                                (
+                                                                    [0] => http://schema.org/DesktopWebPlatform
+                                                                    [1] => http://schema.org/MobileWebPlatform
+                                                                    [2] => http://schema.org/IOSPlatform
+                                                                    [3] => http://schema.googleapis.com/GoogleVideoCast
+                                                                )
+
+                                                        )
+
+                                                )
+
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+            [1] => Array
+                (
+                    [poster] => https://i2.wp.com/terbit21.co/wp-content/uploads/2022/03/vxtMstBRyoQYABjepeygEsJqAQT.jpg
+                    [rating] => 0
+                    [quality] => HD
+                    [categories] => Action,Adventure,Fantasy,undefined,WEBDL,1080,Indonesia,2022
+                    [downloadLink] => https://t21.press/download/the-legend-of-kunlun-2022/
+                    [options] => Array
+                        (
+                            [@context] => http://schema.org
+                            [@id] => https://149.56.198.206/the-legend-of-kunlun-2022/
+                            [@type] => Movie
+                            [name] => The Legend of Kunlun (2022)
+                            [url] => https://149.56.198.206/the-legend-of-kunlun-2022/
+                            [image] => https://149.56.198.206/wp-content/uploads/2022/03/vxtMstBRyoQYABjepeygEsJqAQT.jpg
+                            [datePublished] => 2022-03-27T18:04:43+07:00
+                            [sameAs] => https://www.themoviedb.org/movie/951547/
+                            [director] => Array
+                                (
+                                    [0] => Array
+                                        (
+                                            [@type] => Person
+                                            [name] => Hai Tao
+                                        )
+
+                                )
+
+                            [genre] => Array
+                                (
+                                    [0] => Action
+                                )
+
+                            [dateCreated] => 2022-03-20
+                            [duration] => PT80M
+                            [aggregateRating] => Array
+                                (
+                                    [@type] => AggregateRating
+                                    [ratingValue] => 2.1
+                                    [reviewCount] => 5
+                                    [bestRating] => 10
+                                    [worstRating] => 1
+                                )
+
+                            [hasPart] => Array
+                                (
+                                    [@type] => Clip
+                                    [description] => trailer
+                                    [potentialAction] => Array
+                                        (
+                                            [@type] => WatchAction
+                                            [target] => Array
+                                                (
+                                                    [0] => Array
+                                                        (
+                                                            [@type] => EntryPoint
+                                                            [urlTemplate] => https://www.youtube.com/watch?v=5c5C7Z251KA
+                                                            [inLanguage] => en
+                                                            [actionPlatform] => Array
+                                                                (
+                                                                    [0] => http://schema.org/DesktopWebPlatform
+                                                                    [1] => http://schema.org/MobileWebPlatform
+                                                                    [2] => http://schema.org/IOSPlatform
+                                                                    [3] => http://schema.googleapis.com/GoogleVideoCast
+                                                                )
+
+                                                        )
+
+                                                )
+
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+            [2] => Array
+                (
+                    [poster] => https://i2.wp.com/terbit21.co/wp-content/uploads/2022/03/tMi997PG0CW3yKgRLWkadQnovoz.jpg
+                    [rating] => 0
+                    [quality] => HD
+                    [categories] => N/A,undefined,WEBDL,1080,Indonesia,2022
+                    [downloadLink] => https://t21.press/download/detective-dee-and-the-ghost-ship-2022/
+                    [options] => Array
+                        (
+                            [@context] => http://schema.org
+                            [@id] => https://149.56.198.206/detective-dee-and-the-ghost-ship-2022/
+                            [@type] => Movie
+                            [name] => Detective Dee and The Ghost Ship (2022)
+                            [url] => https://149.56.198.206/detective-dee-and-the-ghost-ship-2022/
+                            [image] => https://149.56.198.206/wp-content/uploads/2022/03/tMi997PG0CW3yKgRLWkadQnovoz.jpg
+                            [datePublished] => 2022-03-27T18:03:00+07:00
+                            [sameAs] => https://www.themoviedb.org/movie/949876/
+                            [director] => Array
+                                (
+                                    [0] => Array
+                                        (
+                                            [@type] => Person
+                                            [name] => Zhang Jingsong
+                                        )
+
+                                )
+
+                            [genre] => Array
+                                (
+                                    [0] => N/A
+                                )
+
+                            [dateCreated] => 2022-03-14
+                            [duration] => PT74M
+                            [aggregateRating] => Array
+                                (
+                                    [@type] => AggregateRating
+                                    [ratingValue] => 2.1
+                                    [reviewCount] => 5
+                                    [bestRating] => 10
+                                    [worstRating] => 1
+                                )
+
+                            [hasPart] => Array
+                                (
+                                    [@type] => Clip
+                                    [description] => trailer
+                                    [potentialAction] => Array
+                                        (
+                                            [@type] => WatchAction
+                                            [target] => Array
+                                                (
+                                                    [0] => Array
+                                                        (
+                                                            [@type] => EntryPoint
+                                                            [urlTemplate] => https://www.youtube.com/watch?v=5c5C7Z251KA
+                                                            [inLanguage] => en
+                                                            [actionPlatform] => Array
+                                                                (
+                                                                    [0] => http://schema.org/DesktopWebPlatform
+                                                                    [1] => http://schema.org/MobileWebPlatform
+                                                                    [2] => http://schema.org/IOSPlatform
+                                                                    [3] => http://schema.googleapis.com/GoogleVideoCast
+                                                                )
+
+                                                        )
+
+                                                )
+
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+            [3] => Array
+                (
+                    [poster] => https://i2.wp.com/terbit21.co/wp-content/uploads/2021/03/ggrMLoVTrBKgGh7UyAhXFuAZCNF.jpg
+                    [rating] => 5
+                    [quality] => HD
+                    [categories] => Comedy,Family,Horror,Canada,BluRay,1080,Indonesia,2020
+                    [downloadLink] => https://t21.press/download/slaxx-2020/
+                    [options] => Array
+                        (
+                            [@context] => http://schema.org
+                            [@id] => https://149.56.198.206/slaxx-2020/
+                            [@type] => Movie
+                            [name] => Slaxx (2020)
+                            [url] => https://149.56.198.206/slaxx-2020/
+                            [image] => https://149.56.198.206/wp-content/uploads/2021/03/ggrMLoVTrBKgGh7UyAhXFuAZCNF.jpg
+                            [datePublished] => 2021-07-01T12:00:51+07:00
+                            [sameAs] => http://www.imdb.com/title/tt9741310/
+                            [director] => Array
+                                (
+                                    [0] => Array
+                                        (
+                                            [@type] => Person
+                                            [name] => Elza Kephart
+                                        )
+
+                                )
+
+                            [genre] => Array
+                                (
+                                    [0] => Comedy
+                                )
+
+                            [dateCreated] => 2020-09-11
+                            [duration] => PT77M
+                            [aggregateRating] => Array
+                                (
+                                    [@type] => AggregateRating
+                                    [ratingValue] => 5
+                                    [reviewCount] => 301
+                                    [bestRating] => 10
+                                    [worstRating] => 1
+                                )
+
+                            [hasPart] => Array
+                                (
+                                    [@type] => Clip
+                                    [description] => trailer
+                                    [potentialAction] => Array
+                                        (
+                                            [@type] => WatchAction
+                                            [target] => Array
+                                                (
+                                                    [0] => Array
+                                                        (
+                                                            [@type] => EntryPoint
+                                                            [urlTemplate] => https://www.youtube.com/watch?v=YBUwi9eXtXM
+                                                            [inLanguage] => en
+                                                            [actionPlatform] => Array
+                                                                (
+                                                                    [0] => http://schema.org/DesktopWebPlatform
+                                                                    [1] => http://schema.org/MobileWebPlatform
+                                                                    [2] => http://schema.org/IOSPlatform
+                                                                    [3] => http://schema.googleapis.com/GoogleVideoCast
+                                                                )
+
+                                                        )
+
+                                                )
+
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+            [4] => Array
+                (
+                    [poster] => https://i2.wp.com/terbit21.co/wp-content/uploads/2022/02/kC7fVtCkJACwPBaRr2hlj2whfKX.jpg
+                    [rating] => 8.4
+                    [quality] => HD
+                    [categories] => Action,Documentary,Mystery,Thriller,Uk,BluRay,1080,Indonesia,2021
+                    [downloadLink] => https://t21.press/download/the-rescue-2021/
+                    [options] => Array
+                        (
+                            [@context] => http://schema.org
+                            [@id] => https://149.56.198.206/the-rescue-2021/
+                            [@type] => Movie
+                            [name] => The Rescue (2021)
+                            [url] => https://149.56.198.206/the-rescue-2021/
+                            [image] => https://149.56.198.206/wp-content/uploads/2022/02/kC7fVtCkJACwPBaRr2hlj2whfKX.jpg
+                            [datePublished] => 2022-02-25T06:53:26+07:00
+                            [sameAs] => http://www.imdb.com/title/tt9098872/
+                            [director] => Array
+                                (
+                                    [0] => Array
+                                        (
+                                            [@type] => Person
+                                            [name] => Elizabeth Chai Vasarhelyi
+                                        )
+
+                                )
+
+                            [genre] => Array
+                                (
+                                    [0] => Action
+                                )
+
+                            [dateCreated] => 2021-10-08
+                            [duration] => PT107M
+                            [aggregateRating] => Array
+                                (
+                                    [@type] => AggregateRating
+                                    [ratingValue] => 8.4
+                                    [reviewCount] => 9965
+                                    [bestRating] => 10
+                                    [worstRating] => 1
+                                )
+
+                            [hasPart] => Array
+                                (
+                                    [@type] => Clip
+                                    [description] => trailer
+                                    [potentialAction] => Array
+                                        (
+                                            [@type] => WatchAction
+                                            [target] => Array
+                                                (
+                                                    [0] => Array
+                                                        (
+                                                            [@type] => EntryPoint
+                                                            [urlTemplate] => https://www.youtube.com/watch?v=_-Kw5kAPSbk
+                                                            [inLanguage] => en
+                                                            [actionPlatform] => Array
+                                                                (
+                                                                    [0] => http://schema.org/DesktopWebPlatform
+                                                                    [1] => http://schema.org/MobileWebPlatform
+                                                                    [2] => http://schema.org/IOSPlatform
+                                                                    [3] => http://schema.googleapis.com/GoogleVideoCast
+                                                                )
+
+                                                        )
+
+                                                )
+
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+            [5] => Array
+                (
+                    [poster] => https://i2.wp.com/terbit21.co/wp-content/uploads/2022/03/8m2xnZAnMuydc87KCLS2gnUmidh.jpg
+                    [rating] => 6.5
+                    [quality] => HD
+                    [categories] => Drama,Romance,Japan,WEBDL,1080,Indonesia,2022
+                    [downloadLink] => https://t21.press/download/love-like-the-falling-petals-2022/
+                    [options] => Array
+                        (
+                            [@context] => http://schema.org
+                            [@id] => https://149.56.198.206/love-like-the-falling-petals-2022/
+                            [@type] => Movie
+                            [name] => Love Like the Falling Petals (2022)
+                            [url] => https://149.56.198.206/love-like-the-falling-petals-2022/
+                            [image] => https://149.56.198.206/wp-content/uploads/2022/03/8m2xnZAnMuydc87KCLS2gnUmidh.jpg
+                            [datePublished] => 2022-03-27T17:59:02+07:00
+                            [sameAs] => http://www.imdb.com/title/tt14227972/
+                            [director] => Array
+                                (
+                                    [0] => Array
+                                        (
+                                            [@type] => Person
+                                            [name] => Yoshihiro Fukagawa
+                                        )
+
+                                )
+
+                            [genre] => Array
+                                (
+                                    [0] => Drama
+                                )
+
+                            [dateCreated] => 2022-03-24
+                            [duration] => PT128M
+                            [aggregateRating] => Array
+                                (
+                                    [@type] => AggregateRating
+                                    [ratingValue] => 6.5
+                                    [reviewCount] => 87
+                                    [bestRating] => 10
+                                    [worstRating] => 1
+                                )
+
+                            [hasPart] => Array
+                                (
+                                    [@type] => Clip
+                                    [description] => trailer
+                                    [potentialAction] => Array
+                                        (
+                                            [@type] => WatchAction
+                                            [target] => Array
+                                                (
+                                                    [0] => Array
+                                                        (
+                                                            [@type] => EntryPoint
+                                                            [urlTemplate] => https://www.youtube.com/watch?v=P7-82-Jx5HU
+                                                            [inLanguage] => en
+                                                            [actionPlatform] => Array
+                                                                (
+                                                                    [0] => http://schema.org/DesktopWebPlatform
+                                                                    [1] => http://schema.org/MobileWebPlatform
+                                                                    [2] => http://schema.org/IOSPlatform
+                                                                    [3] => http://schema.googleapis.com/GoogleVideoCast
+                                                                )
+
+                                                        )
+
+                                                )
+
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+            [6] => Array
+                (
+                    [poster] => https://i2.wp.com/terbit21.co/wp-content/uploads/2022/03/nmD0vZk8jQg1Suhs0iv9cj0xdtZ.jpg
+                    [rating] => 6.2
+                    [quality] => HD
+                    [categories] => Adventure,Animation,Comedy,Family,Canada,WEBRip,1080,Indonesia,2022
+                    [downloadLink] => https://t21.press/download/fireheart-2022/
+                    [options] => Array
+                        (
+                            [@context] => http://schema.org
+                            [@id] => https://149.56.198.206/fireheart-2022/
+                            [@type] => Movie
+                            [name] => Fireheart (2022)
+                            [url] => https://149.56.198.206/fireheart-2022/
+                            [image] => https://149.56.198.206/wp-content/uploads/2022/03/nmD0vZk8jQg1Suhs0iv9cj0xdtZ.jpg
+                            [datePublished] => 2022-03-08T22:19:08+07:00
+                            [sameAs] => http://www.imdb.com/title/tt8354218/
+                            [director] => Array
+                                (
+                                    [0] => Array
+                                        (
+                                            [@type] => Person
+                                            [name] => Laurent Zeitoun
+                                        )
+
+                                )
+
+                            [genre] => Array
+                                (
+                                    [0] => Adventure
+                                )
+
+                            [dateCreated] => 2022-02-02
+                            [duration] => PT92M
+                            [aggregateRating] => Array
+                                (
+                                    [@type] => AggregateRating
+                                    [ratingValue] => 6.2
+                                    [reviewCount] => 496
+                                    [bestRating] => 10
+                                    [worstRating] => 1
+                                )
+
+                            [hasPart] => Array
+                                (
+                                    [@type] => Clip
+                                    [description] => trailer
+                                    [potentialAction] => Array
+                                        (
+                                            [@type] => WatchAction
+                                            [target] => Array
+                                                (
+                                                    [0] => Array
+                                                        (
+                                                            [@type] => EntryPoint
+                                                            [urlTemplate] => https://www.youtube.com/watch?v=ZUy_ygJSIag
+                                                            [inLanguage] => en
+                                                            [actionPlatform] => Array
+                                                                (
+                                                                    [0] => http://schema.org/DesktopWebPlatform
+                                                                    [1] => http://schema.org/MobileWebPlatform
+                                                                    [2] => http://schema.org/IOSPlatform
+                                                                    [3] => http://schema.googleapis.com/GoogleVideoCast
+                                                                )
+
+                                                        )
+
+                                                )
+
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+            [7] => Array
+                (
+                    [poster] => https://i2.wp.com/terbit21.co/wp-content/uploads/2022/03/9ftQSL6C3QwgK5Y0sCrC1uW3ADr.jpg
+                    [rating] => 4.5
+                    [quality] => HD
+                    [categories] => Thriller,Usa,WEBRip,720,Indonesia,2021
+                    [downloadLink] => https://t21.press/download/the-yellow-wallpaper-2021/
+                    [options] => Array
+                        (
+                            [@context] => http://schema.org
+                            [@id] => https://149.56.198.206/the-yellow-wallpaper-2021/
+                            [@type] => Movie
+                            [name] => The Yellow Wallpaper (2021)
+                            [url] => https://149.56.198.206/the-yellow-wallpaper-2021/
+                            [image] => https://149.56.198.206/wp-content/uploads/2022/03/9ftQSL6C3QwgK5Y0sCrC1uW3ADr.jpg
+                            [datePublished] => 2022-03-27T17:56:50+07:00
+                            [sameAs] => http://www.imdb.com/title/tt8372638/
+                            [director] => Array
+                                (
+                                    [0] => Array
+                                        (
+                                            [@type] => Person
+                                            [name] => Kevin Pontuti
+                                        )
+
+                                )
+
+                            [genre] => Array
+                                (
+                                    [0] => Thriller
+                                )
+
+                            [dateCreated] => 2021-03-20
+                            [duration] => PT100M
+                            [aggregateRating] => Array
+                                (
+                                    [@type] => AggregateRating
+                                    [ratingValue] => 4.5
+                                    [reviewCount] => 51
+                                    [bestRating] => 10
+                                    [worstRating] => 1
+                                )
+
+                            [hasPart] => Array
+                                (
+                                    [@type] => Clip
+                                    [description] => trailer
+                                    [potentialAction] => Array
+                                        (
+                                            [@type] => WatchAction
+                                            [target] => Array
+                                                (
+                                                    [0] => Array
+                                                        (
+                                                            [@type] => EntryPoint
+                                                            [urlTemplate] => https://www.youtube.com/watch?v=HC3TFr5LUL8
+                                                            [inLanguage] => en
+                                                            [actionPlatform] => Array
+                                                                (
+                                                                    [0] => http://schema.org/DesktopWebPlatform
+                                                                    [1] => http://schema.org/MobileWebPlatform
+                                                                    [2] => http://schema.org/IOSPlatform
+                                                                    [3] => http://schema.googleapis.com/GoogleVideoCast
+                                                                )
+
+                                                        )
+
+                                                )
+
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+            [8] => Array
+                (
+                    [poster] => https://i2.wp.com/terbit21.co/wp-content/uploads/2022/03/hJI2zgBv6vcADNIrkygqpEaUcRA.jpg
+                    [rating] => 5.6
+                    [quality] => HD
+                    [categories] => Thriller,Uk,WEBRip,1080,Indonesia,2022
+                    [downloadLink] => https://t21.press/download/assailant-2022/
+                    [options] => Array
+                        (
+                            [@context] => http://schema.org
+                            [@id] => https://149.56.198.206/assailant-2022/
+                            [@type] => Movie
+                            [name] => Assailant (2022)
+                            [url] => https://149.56.198.206/assailant-2022/
+                            [image] => https://149.56.198.206/wp-content/uploads/2022/03/hJI2zgBv6vcADNIrkygqpEaUcRA.jpg
+                            [datePublished] => 2022-03-27T17:55:57+07:00
+                            [sameAs] => http://www.imdb.com/title/tt14469194/
+                            [director] => Array
+                                (
+                                    [0] => Array
+                                        (
+                                            [@type] => Person
+                                            [name] => Tom Paton
+                                        )
+
+                                )
+
+                            [genre] => Array
+                                (
+                                    [0] => Thriller
+                                )
+
+                            [dateCreated] => 2022-03-22
+                            [duration] => PT97 minM
+                            [aggregateRating] => Array
+                                (
+                                    [@type] => AggregateRating
+                                    [ratingValue] => 5.6
+                                    [reviewCount] => 66
+                                    [bestRating] => 10
+                                    [worstRating] => 1
+                                )
+
+                            [hasPart] => Array
+                                (
+                                    [@type] => Clip
+                                    [description] => trailer
+                                    [potentialAction] => Array
+                                        (
+                                            [@type] => WatchAction
+                                            [target] => Array
+                                                (
+                                                    [0] => Array
+                                                        (
+                                                            [@type] => EntryPoint
+                                                            [urlTemplate] => https://www.youtube.com/watch?v=5c5C7Z251KA
+                                                            [inLanguage] => en
+                                                            [actionPlatform] => Array
+                                                                (
+                                                                    [0] => http://schema.org/DesktopWebPlatform
+                                                                    [1] => http://schema.org/MobileWebPlatform
+                                                                    [2] => http://schema.org/IOSPlatform
+                                                                    [3] => http://schema.googleapis.com/GoogleVideoCast
+                                                                )
+
+                                                        )
+
+                                                )
+
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+            [9] => Array
+                (
+                    [poster] => https://i2.wp.com/terbit21.co/wp-content/uploads/2021/09/mJVXqMKh7CGkoUMwmIWHuKxqtOZ.jpg
+                    [rating] => 5.4
+                    [quality] => HD
+                    [categories] => Drama,Romance,Thriller,Czech Republic,Germany,BluRay,1080,Indonesia,2021
+                    [downloadLink] => https://t21.press/download/je-suis-karl-2021/
+                    [options] => Array
+                        (
+                            [@context] => http://schema.org
+                            [@id] => https://149.56.198.206/je-suis-karl-2021/
+                            [@type] => Movie
+                            [name] => Je suis Karl (2021)
+                            [url] => https://149.56.198.206/je-suis-karl-2021/
+                            [image] => https://149.56.198.206/wp-content/uploads/2021/09/mJVXqMKh7CGkoUMwmIWHuKxqtOZ.jpg
+                            [datePublished] => 2021-09-28T14:27:15+07:00
+                            [sameAs] => http://www.imdb.com/title/tt9205538/
+                            [director] => Array
+                                (
+                                    [0] => Array
+                                        (
+                                            [@type] => Person
+                                            [name] => Christian Schwochow
+                                        )
+
+                                )
+
+                            [genre] => Array
+                                (
+                                    [0] => Drama
+                                )
+
+                            [dateCreated] => 2021-09-16
+                            [duration] => PT126M
+                            [aggregateRating] => Array
+                                (
+                                    [@type] => AggregateRating
+                                    [ratingValue] => 5.4
+                                    [reviewCount] => 290
+                                    [bestRating] => 10
+                                    [worstRating] => 1
+                                )
+
+                            [hasPart] => Array
+                                (
+                                    [@type] => Clip
+                                    [description] => trailer
+                                    [potentialAction] => Array
+                                        (
+                                            [@type] => WatchAction
+                                            [target] => Array
+                                                (
+                                                    [0] => Array
+                                                        (
+                                                            [@type] => EntryPoint
+                                                            [urlTemplate] => https://www.youtube.com/watch?v=Pzg_nWktMAs
+                                                            [inLanguage] => en
+                                                            [actionPlatform] => Array
+                                                                (
+                                                                    [0] => http://schema.org/DesktopWebPlatform
+                                                                    [1] => http://schema.org/MobileWebPlatform
+                                                                    [2] => http://schema.org/IOSPlatform
+                                                                    [3] => http://schema.googleapis.com/GoogleVideoCast
+                                                                )
+
+                                                        )
+
+                                                )
+
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+            [10] => Array
+                (
+                    [poster] => https://i2.wp.com/terbit21.co/wp-content/uploads/2022/03/1HJAn6zzi02VsB4yPKWlCUpN7iZ.jpg
+                    [rating] => 3.8
+                    [quality] => HD
+                    [categories] => Horror,Brazil,WEBRip,720,Indonesia,2022
+                    [downloadLink] => https://t21.press/download/deep-hatred-2022/
+                    [options] => Array
+                        (
+                            [@context] => http://schema.org
+                            [@id] => https://149.56.198.206/deep-hatred-2022/
+                            [@type] => Movie
+                            [name] => Deep Hatred (2022)
+                            [url] => https://149.56.198.206/deep-hatred-2022/
+                            [image] => https://149.56.198.206/wp-content/uploads/2022/03/1HJAn6zzi02VsB4yPKWlCUpN7iZ.jpg
+                            [datePublished] => 2022-03-27T17:54:21+07:00
+                            [sameAs] => http://www.imdb.com/title/tt9070824/
+                            [director] => Array
+                                (
+                                    [0] => Array
+                                        (
+                                            [@type] => Person
+                                            [name] => Ale Mchaddo
+                                        )
+
+                                )
+
+                            [genre] => Array
+                                (
+                                    [0] => Horror
+                                )
+
+                            [dateCreated] => 2022-03-04
+                            [duration] => PT74 minM
+                            [aggregateRating] => Array
+                                (
+                                    [@type] => AggregateRating
+                                    [ratingValue] => 3.8
+                                    [reviewCount] => 224
+                                    [bestRating] => 10
+                                    [worstRating] => 1
+                                )
+
+                            [hasPart] => Array
+                                (
+                                    [@type] => Clip
+                                    [description] => trailer
+                                    [potentialAction] => Array
+                                        (
+                                            [@type] => WatchAction
+                                            [target] => Array
+                                                (
+                                                    [0] => Array
+                                                        (
+                                                            [@type] => EntryPoint
+                                                            [urlTemplate] => https://www.youtube.com/watch?v=zVePB7VRJGA
+                                                            [inLanguage] => en
+                                                            [actionPlatform] => Array
+                                                                (
+                                                                    [0] => http://schema.org/DesktopWebPlatform
+                                                                    [1] => http://schema.org/MobileWebPlatform
+                                                                    [2] => http://schema.org/IOSPlatform
+                                                                    [3] => http://schema.googleapis.com/GoogleVideoCast
+                                                                )
+
+                                                        )
+
+                                                )
+
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+            [11] => Array
+                (
+                    [poster] => https://i2.wp.com/terbit21.co/wp-content/uploads/2022/03/kXPcaAI8ao11yPlGVfMUbIt5EPG.jpg
+                    [rating] => 4.9
+                    [quality] => HD
+                    [categories] => Drama,Canada,WEBRip,720,Indonesia,2021
+                    [downloadLink] => https://t21.press/download/woman-in-car-2021/
+                    [options] => Array
+                        (
+                            [@context] => http://schema.org
+                            [@id] => https://149.56.198.206/woman-in-car-2021/
+                            [@type] => Movie
+                            [name] => Woman in Car (2021)
+                            [url] => https://149.56.198.206/woman-in-car-2021/
+                            [image] => https://149.56.198.206/wp-content/uploads/2022/03/kXPcaAI8ao11yPlGVfMUbIt5EPG.jpg
+                            [datePublished] => 2022-03-27T17:53:27+07:00
+                            [sameAs] => http://www.imdb.com/title/tt10197632/
+                            [director] => Array
+                                (
+                                    [0] => Array
+                                        (
+                                            [@type] => Person
+                                            [name] => Vanya Rose
+                                        )
+
+                                )
+
+                            [genre] => Array
+                                (
+                                    [0] => Drama
+                                )
+
+                            [dateCreated] => 2021-09-21
+                            [duration] => PT109 minM
+                            [aggregateRating] => Array
+                                (
+                                    [@type] => AggregateRating
+                                    [ratingValue] => 4.9
+                                    [reviewCount] => 63
+                                    [bestRating] => 10
+                                    [worstRating] => 1
+                                )
+
+                            [hasPart] => Array
+                                (
+                                    [@type] => Clip
+                                    [description] => trailer
+                                    [potentialAction] => Array
+                                        (
+                                            [@type] => WatchAction
+                                            [target] => Array
+                                                (
+                                                    [0] => Array
+                                                        (
+                                                            [@type] => EntryPoint
+                                                            [urlTemplate] => https://www.youtube.com/watch?v=5c5C7Z251KA
+                                                            [inLanguage] => en
+                                                            [actionPlatform] => Array
+                                                                (
+                                                                    [0] => http://schema.org/DesktopWebPlatform
+                                                                    [1] => http://schema.org/MobileWebPlatform
+                                                                    [2] => http://schema.org/IOSPlatform
+                                                                    [3] => http://schema.googleapis.com/GoogleVideoCast
+                                                                )
+
+                                                        )
+
+                                                )
+
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+            [12] => Array
+                (
+                    [poster] => https://i2.wp.com/terbit21.co/wp-content/uploads/2022/03/ugIdyvtAzHWOguD91UjHKoAvfum.jpg
+                    [rating] => 7.2
+                    [quality] => HD
+                    [categories] => Action,Comedy,Documentary,Usa,WEBDL,1080,Indonesia,2022
+                    [downloadLink] => https://t21.press/download/jackass-forever-2022/
+                    [options] => Array
+                        (
+                            [@context] => http://schema.org
+                            [@id] => https://149.56.198.206/jackass-forever-2022/
+                            [@type] => Movie
+                            [name] => Jackass Forever (2022)
+                            [url] => https://149.56.198.206/jackass-forever-2022/
+                            [image] => https://149.56.198.206/wp-content/uploads/2022/03/ugIdyvtAzHWOguD91UjHKoAvfum.jpg
+                            [datePublished] => 2022-03-27T17:52:16+07:00
+                            [sameAs] => http://www.imdb.com/title/tt11466222/
+                            [director] => Array
+                                (
+                                    [0] => Array
+                                        (
+                                            [@type] => Person
+                                            [name] => Jeff Tremaine
+                                        )
+
+                                )
+
+                            [genre] => Array
+                                (
+                                    [0] => Action
+                                )
+
+                            [dateCreated] => 2022-02-01
+                            [duration] => PT96M
+                            [aggregateRating] => Array
+                                (
+                                    [@type] => AggregateRating
+                                    [ratingValue] => 7.2
+                                    [reviewCount] => 19363
+                                    [bestRating] => 10
+                                    [worstRating] => 1
+                                )
+
+                            [hasPart] => Array
+                                (
+                                    [@type] => Clip
+                                    [description] => trailer
+                                    [potentialAction] => Array
+                                        (
+                                            [@type] => WatchAction
+                                            [target] => Array
+                                                (
+                                                    [0] => Array
+                                                        (
+                                                            [@type] => EntryPoint
+                                                            [urlTemplate] => https://www.youtube.com/watch?v=FNq-QT2Jpng
+                                                            [inLanguage] => en
+                                                            [actionPlatform] => Array
+                                                                (
+                                                                    [0] => http://schema.org/DesktopWebPlatform
+                                                                    [1] => http://schema.org/MobileWebPlatform
+                                                                    [2] => http://schema.org/IOSPlatform
+                                                                    [3] => http://schema.googleapis.com/GoogleVideoCast
+                                                                )
+
+                                                        )
+
+                                                )
+
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+            [13] => Array
+                (
+                    [poster] => https://i2.wp.com/terbit21.co/wp-content/uploads/2022/03/9g6yLno4P14UWiURoL2H2NUp39h.jpg
+                    [rating] => 4.6
+                    [quality] => HD
+                    [categories] => Animation,Family,Fantasy,Hungary,Russia,WEBRip,1080,Indonesia,2021
+                    [downloadLink] => https://t21.press/download/pinocchio-a-true-story-2021/
+                    [options] => Array
+                        (
+                            [@context] => http://schema.org
+                            [@id] => https://149.56.198.206/pinocchio-a-true-story-2021/
+                            [@type] => Movie
+                            [name] => Pinocchio: A True Story (2021)
+                            [url] => https://149.56.198.206/pinocchio-a-true-story-2021/
+                            [image] => https://149.56.198.206/wp-content/uploads/2022/03/9g6yLno4P14UWiURoL2H2NUp39h.jpg
+                            [datePublished] => 2022-03-27T17:50:11+07:00
+                            [sameAs] => http://www.imdb.com/title/tt8480678/
+                            [director] => Array
+                                (
+                                    [0] => Array
+                                        (
+                                            [@type] => Person
+                                            [name] => Vasiliy Rovenskiy
+                                        )
+
+                                )
+
+                            [genre] => Array
+                                (
+                                    [0] => Animation
+                                )
+
+                            [dateCreated] => 2021-12-23
+                            [duration] => PT94M
+                            [aggregateRating] => Array
+                                (
+                                    [@type] => AggregateRating
+                                    [ratingValue] => 4.6
+                                    [reviewCount] => 490
+                                    [bestRating] => 10
+                                    [worstRating] => 1
+                                )
+
+                            [hasPart] => Array
+                                (
+                                    [@type] => Clip
+                                    [description] => trailer
+                                    [potentialAction] => Array
+                                        (
+                                            [@type] => WatchAction
+                                            [target] => Array
+                                                (
+                                                    [0] => Array
+                                                        (
+                                                            [@type] => EntryPoint
+                                                            [urlTemplate] => https://www.youtube.com/watch?v=Z4ArXSwALDU
+                                                            [inLanguage] => en
+                                                            [actionPlatform] => Array
+                                                                (
+                                                                    [0] => http://schema.org/DesktopWebPlatform
+                                                                    [1] => http://schema.org/MobileWebPlatform
+                                                                    [2] => http://schema.org/IOSPlatform
+                                                                    [3] => http://schema.googleapis.com/GoogleVideoCast
+                                                                )
+
+                                                        )
+
+                                                )
+
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+            [14] => Array
+                (
+                    [poster] => https://i2.wp.com/terbit21.co/wp-content/uploads/2022/03/eymTgzHgYretvL5mT7pwznX4p34.jpg
+                    [rating] => 5.6
+                    [quality] => HD
+                    [categories] => Comedy,Drama,Family,Romance,Turkey,WEBRip,1080,Indonesia,2022
+                    [downloadLink] => https://t21.press/download/in-good-hands-2022/
+                    [options] => Array
+                        (
+                            [@context] => http://schema.org
+                            [@id] => https://149.56.198.206/in-good-hands-2022/
+                            [@type] => Movie
+                            [name] => In Good Hands (2022)
+                            [url] => https://149.56.198.206/in-good-hands-2022/
+                            [image] => https://149.56.198.206/wp-content/uploads/2022/03/eymTgzHgYretvL5mT7pwznX4p34.jpg
+                            [datePublished] => 2022-03-27T17:49:21+07:00
+                            [sameAs] => http://www.imdb.com/title/tt14898794/
+                            [director] => Array
+                                (
+                                    [0] => Array
+                                        (
+                                            [@type] => Person
+                                            [name] => Ketche
+                                        )
+
+                                )
+
+                            [genre] => Array
+                                (
+                                    [0] => Comedy
+                                )
+
+                            [dateCreated] => 2022-03-21
+                            [duration] => PT104M
+                            [aggregateRating] => Array
+                                (
+                                    [@type] => AggregateRating
+                                    [ratingValue] => 5.6
+                                    [reviewCount] => 1152
+                                    [bestRating] => 10
+                                    [worstRating] => 1
+                                )
+
+                            [hasPart] => Array
+                                (
+                                    [@type] => Clip
+                                    [description] => trailer
+                                    [potentialAction] => Array
+                                        (
+                                            [@type] => WatchAction
+                                            [target] => Array
+                                                (
+                                                    [0] => Array
+                                                        (
+                                                            [@type] => EntryPoint
+                                                            [urlTemplate] => https://www.youtube.com/watch?v=5c5C7Z251KA
+                                                            [inLanguage] => en
+                                                            [actionPlatform] => Array
+                                                                (
+                                                                    [0] => http://schema.org/DesktopWebPlatform
+                                                                    [1] => http://schema.org/MobileWebPlatform
+                                                                    [2] => http://schema.org/IOSPlatform
+                                                                    [3] => http://schema.googleapis.com/GoogleVideoCast
+                                                                )
+
+                                                        )
+
+                                                )
+
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+            [15] => Array
+                (
+                    [poster] => https://i2.wp.com/terbit21.co/wp-content/uploads/2022/01/i0z8g2VRZP3dhVvvSMilbOZMKqR.jpg
+                    [rating] => 2.3
+                    [quality] => HD
+                    [categories] => Thriller,Usa,BluRay,1080,Indonesia,2022
+                    [downloadLink] => https://t21.press/download/the-requin-2022/
+                    [options] => Array
+                        (
+                            [@context] => http://schema.org
+                            [@id] => https://149.56.198.206/the-requin-2022/
+                            [@type] => Movie
+                            [name] => The Requin (2022)
+                            [url] => https://149.56.198.206/the-requin-2022/
+                            [image] => https://149.56.198.206/wp-content/uploads/2022/01/i0z8g2VRZP3dhVvvSMilbOZMKqR.jpg
+                            [datePublished] => 2022-01-31T21:13:20+07:00
+                            [sameAs] => http://www.imdb.com/title/tt11348232/
+                            [director] => Array
+                                (
+                                    [0] => Array
+                                        (
+                                            [@type] => Person
+                                            [name] => Lê Văn Kiệt
+                                        )
+
+                                )
+
+                            [genre] => Array
+                                (
+                                    [0] => Thriller
+                                )
+
+                            [dateCreated] => 2022-01-28
+                            [duration] => PT89M
+                            [aggregateRating] => Array
+                                (
+                                    [@type] => AggregateRating
+                                    [ratingValue] => 2.3
+                                    [reviewCount] => 814
+                                    [bestRating] => 10
+                                    [worstRating] => 1
+                                )
+
+                            [hasPart] => Array
+                                (
+                                    [@type] => Clip
+                                    [description] => trailer
+                                    [potentialAction] => Array
+                                        (
+                                            [@type] => WatchAction
+                                            [target] => Array
+                                                (
+                                                    [0] => Array
+                                                        (
+                                                            [@type] => EntryPoint
+                                                            [urlTemplate] => https://www.youtube.com/watch?v=kWXK5fibfko
+                                                            [inLanguage] => en
+                                                            [actionPlatform] => Array
+                                                                (
+                                                                    [0] => http://schema.org/DesktopWebPlatform
+                                                                    [1] => http://schema.org/MobileWebPlatform
+                                                                    [2] => http://schema.org/IOSPlatform
+                                                                    [3] => http://schema.googleapis.com/GoogleVideoCast
+                                                                )
+
+                                                        )
+
+                                                )
+
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+            [16] => Array
+                (
+                    [poster] => https://i2.wp.com/terbit21.co/wp-content/uploads/2022/03/72IPGDomQ7wfINVvZC1Pmx6wVga.jpg
+                    [rating] => 6.6
+                    [quality] => HD
+                    [categories] => Music,Usa,WEBRip,1080,Indonesia,2021
+                    [downloadLink] => https://t21.press/download/star-crossed-the-film-2021/
+                    [options] => Array
+                        (
+                            [@context] => http://schema.org
+                            [@id] => https://149.56.198.206/star-crossed-the-film-2021/
+                            [@type] => Movie
+                            [name] => star-crossed: the film (2021)
+                            [url] => https://149.56.198.206/star-crossed-the-film-2021/
+                            [image] => https://149.56.198.206/wp-content/uploads/2022/03/72IPGDomQ7wfINVvZC1Pmx6wVga.jpg
+                            [datePublished] => 2022-03-27T17:47:33+07:00
+                            [sameAs] => http://www.imdb.com/title/tt15285682/
+                            [director] => Array
+                                (
+                                    [0] => Array
+                                        (
+                                            [@type] => Person
+                                            [name] => Bardia Zeinali
+                                        )
+
+                                )
+
+                            [genre] => Array
+                                (
+                                    [0] => Music
+                                )
+
+                            [dateCreated] => 2021-09-08
+                            [duration] => PT48M
+                            [aggregateRating] => Array
+                                (
+                                    [@type] => AggregateRating
+                                    [ratingValue] => 6.6
+                                    [reviewCount] => 208
+                                    [bestRating] => 10
+                                    [worstRating] => 1
+                                )
+
+                            [hasPart] => Array
+                                (
+                                    [@type] => Clip
+                                    [description] => trailer
+                                    [potentialAction] => Array
+                                        (
+                                            [@type] => WatchAction
+                                            [target] => Array
+                                                (
+                                                    [0] => Array
+                                                        (
+                                                            [@type] => EntryPoint
+                                                            [urlTemplate] => https://www.youtube.com/watch?v=tLqt_6W2JXU
+                                                            [inLanguage] => en
+                                                            [actionPlatform] => Array
+                                                                (
+                                                                    [0] => http://schema.org/DesktopWebPlatform
+                                                                    [1] => http://schema.org/MobileWebPlatform
+                                                                    [2] => http://schema.org/IOSPlatform
+                                                                    [3] => http://schema.googleapis.com/GoogleVideoCast
+                                                                )
+
+                                                        )
+
+                                                )
+
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+            [17] => Array
+                (
+                    [poster] => https://i2.wp.com/terbit21.co/wp-content/uploads/2022/02/wYihSXWYqN8Ejsdut2P1P0o97N0.jpg
+                    [rating] => 2.8
+                    [quality] => HD
+                    [categories] => Action,Drama,Thriller,Usa,BluRay,1080,Indonesia,2022
+                    [downloadLink] => https://t21.press/download/pursuit-2022/
+                    [options] => Array
+                        (
+                            [@context] => http://schema.org
+                            [@id] => https://149.56.198.206/pursuit-2022/
+                            [@type] => Movie
+                            [name] => Pursuit (2022)
+                            [url] => https://149.56.198.206/pursuit-2022/
+                            [image] => https://149.56.198.206/wp-content/uploads/2022/02/wYihSXWYqN8Ejsdut2P1P0o97N0.jpg
+                            [datePublished] => 2022-02-27T21:33:18+07:00
+                            [sameAs] => http://www.imdb.com/title/tt15106860/
+                            [director] => Array
+                                (
+                                    [0] => Array
+                                        (
+                                            [@type] => Person
+                                            [name] => Brian Skiba
+                                        )
+
+                                )
+
+                            [genre] => Array
+                                (
+                                    [0] => Action
+                                )
+
+                            [dateCreated] => 2022-02-18
+                            [duration] => PT92M
+                            [aggregateRating] => Array
+                                (
+                                    [@type] => AggregateRating
+                                    [ratingValue] => 2.8
+                                    [reviewCount] => 413
+                                    [bestRating] => 10
+                                    [worstRating] => 1
+                                )
+
+                            [hasPart] => Array
+                                (
+                                    [@type] => Clip
+                                    [description] => trailer
+                                    [potentialAction] => Array
+                                        (
+                                            [@type] => WatchAction
+                                            [target] => Array
+                                                (
+                                                    [0] => Array
+                                                        (
+                                                            [@type] => EntryPoint
+                                                            [urlTemplate] => https://www.youtube.com/watch?v=7YEicjmt2KY
+                                                            [inLanguage] => en
+                                                            [actionPlatform] => Array
+                                                                (
+                                                                    [0] => http://schema.org/DesktopWebPlatform
+                                                                    [1] => http://schema.org/MobileWebPlatform
+                                                                    [2] => http://schema.org/IOSPlatform
+                                                                    [3] => http://schema.googleapis.com/GoogleVideoCast
+                                                                )
+
+                                                        )
+
+                                                )
+
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+            [18] => Array
+                (
+                    [poster] => https://i2.wp.com/terbit21.co/wp-content/uploads/2022/03/345gLhiNpItU1ICx8OxJQwjgPmH.jpg
+                    [rating] => 7.2
+                    [quality] => HD
+                    [categories] => Comedy,Drama,Usa,BluRay,1080,Indonesia,2021
+                    [downloadLink] => https://t21.press/download/red-rocket-2021/
+                    [options] => Array
+                        (
+                            [@context] => http://schema.org
+                            [@id] => https://149.56.198.206/red-rocket-2021/
+                            [@type] => Movie
+                            [name] => Red Rocket (2021)
+                            [url] => https://149.56.198.206/red-rocket-2021/
+                            [image] => https://149.56.198.206/wp-content/uploads/2022/03/345gLhiNpItU1ICx8OxJQwjgPmH.jpg
+                            [datePublished] => 2022-03-27T17:45:41+07:00
+                            [sameAs] => http://www.imdb.com/title/tt13453006/
+                            [director] => Array
+                                (
+                                    [0] => Array
+                                        (
+                                            [@type] => Person
+                                            [name] => Sean Baker
+                                        )
+
+                                )
+
+                            [genre] => Array
+                                (
+                                    [0] => Comedy
+                                )
+
+                            [dateCreated] => 2021-12-03
+                            [duration] => PT130M
+                            [aggregateRating] => Array
+                                (
+                                    [@type] => AggregateRating
+                                    [ratingValue] => 7.2
+                                    [reviewCount] => 14343
+                                    [bestRating] => 10
+                                    [worstRating] => 1
+                                )
+
+                            [hasPart] => Array
+                                (
+                                    [@type] => Clip
+                                    [description] => trailer
+                                    [potentialAction] => Array
+                                        (
+                                            [@type] => WatchAction
+                                            [target] => Array
+                                                (
+                                                    [0] => Array
+                                                        (
+                                                            [@type] => EntryPoint
+                                                            [urlTemplate] => https://www.youtube.com/watch?v=nZv-8KO2Q68
+                                                            [inLanguage] => en
+                                                            [actionPlatform] => Array
+                                                                (
+                                                                    [0] => http://schema.org/DesktopWebPlatform
+                                                                    [1] => http://schema.org/MobileWebPlatform
+                                                                    [2] => http://schema.org/IOSPlatform
+                                                                    [3] => http://schema.googleapis.com/GoogleVideoCast
+                                                                )
+
+                                                        )
+
+                                                )
+
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+            [19] => Array
+                (
+                    [poster] => https://i2.wp.com/terbit21.co/wp-content/uploads/2022/03/1db5P1cTOfBHqiku1r9ye8aojru.jpg
+                    [rating] => 4.2
+                    [quality] => HD
+                    [categories] => Thriller,Usa,WEBRip,1080,Indonesia,2022
+                    [downloadLink] => https://t21.press/download/measure-of-revenge-2022/
+                    [options] => Array
+                        (
+                            [@context] => http://schema.org
+                            [@id] => https://149.56.198.206/measure-of-revenge-2022/
+                            [@type] => Movie
+                            [name] => Measure of Revenge (2022)
+                            [url] => https://149.56.198.206/measure-of-revenge-2022/
+                            [image] => https://149.56.198.206/wp-content/uploads/2022/03/1db5P1cTOfBHqiku1r9ye8aojru.jpg
+                            [datePublished] => 2022-03-27T17:44:42+07:00
+                            [sameAs] => http://www.imdb.com/title/tt9075388/
+                            [director] => Array
+                                (
+                                    [0] => Array
+                                        (
+                                            [@type] => Person
+                                            [name] => Peyfa
+                                        )
+
+                                )
+
+                            [genre] => Array
+                                (
+                                    [0] => Thriller
+                                )
+
+                            [dateCreated] => 2022-03-18
+                            [duration] => PT92M
+                            [aggregateRating] => Array
+                                (
+                                    [@type] => AggregateRating
+                                    [ratingValue] => 4.2
+                                    [reviewCount] => 111
+                                    [bestRating] => 10
+                                    [worstRating] => 1
+                                )
+
+                            [hasPart] => Array
+                                (
+                                    [@type] => Clip
+                                    [description] => trailer
+                                    [potentialAction] => Array
+                                        (
+                                            [@type] => WatchAction
+                                            [target] => Array
+                                                (
+                                                    [0] => Array
+                                                        (
+                                                            [@type] => EntryPoint
+                                                            [urlTemplate] => https://www.youtube.com/watch?v=qaHeqT_5Y14
+                                                            [inLanguage] => en
+                                                            [actionPlatform] => Array
+                                                                (
+                                                                    [0] => http://schema.org/DesktopWebPlatform
+                                                                    [1] => http://schema.org/MobileWebPlatform
+                                                                    [2] => http://schema.org/IOSPlatform
+                                                                    [3] => http://schema.googleapis.com/GoogleVideoCast
+                                                                )
+
+                                                        )
+
+                                                )
+
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+            [20] => Array
+                (
+                    [poster] => https://i2.wp.com/terbit21.co/wp-content/uploads/2020/05/lkyFRdf1Nj3ncYLz4i3OOEciaFf.jpg
+                    [rating] => 9.5
+                    [quality] => HD
+                    [categories] => Drama,WEBDL,1080,Indonesia,2018
+                    [downloadLink] => https://t21.press/download/room-laundering-2018/
+                    [options] => Array
+                        (
+                            [@context] => http://schema.org
+                            [@id] => https://149.56.198.206/room-laundering-2018/
+                            [@type] => Movie
+                            [name] => Room Laundering (2018)
+                            [url] => https://149.56.198.206/room-laundering-2018/
+                            [image] => https://149.56.198.206/wp-content/uploads/2020/05/lkyFRdf1Nj3ncYLz4i3OOEciaFf.jpg
+                            [datePublished] => 2020-05-08T21:00:02+07:00
+                            [sameAs] => http://www.imdb.com/title/tt7724322/
+                            [director] => Array
+                                (
+                                    [0] => Array
+                                        (
+                                            [@type] => Person
+                                            [name] => Kenji Katagiri
+                                        )
+
+                                )
+
+                            [genre] => Array
+                                (
+                                    [0] => Drama
+                                )
+
+                            [dateCreated] => 2018-07-06
+                            [duration] => PT05M
+                            [aggregateRating] => Array
+                                (
+                                    [@type] => AggregateRating
+                                    [ratingValue] => 9.5
+                                    [reviewCount] => 1
+                                    [bestRating] => 10
+                                    [worstRating] => 1
+                                )
+
+                            [hasPart] => Array
+                                (
+                                    [@type] => Clip
+                                    [description] => trailer
+                                    [potentialAction] => Array
+                                        (
+                                            [@type] => WatchAction
+                                            [target] => Array
+                                                (
+                                                    [0] => Array
+                                                        (
+                                                            [@type] => EntryPoint
+                                                            [urlTemplate] => https://www.youtube.com/watch?v=5c5C7Z251KA
+                                                            [inLanguage] => en
+                                                            [actionPlatform] => Array
+                                                                (
+                                                                    [0] => http://schema.org/DesktopWebPlatform
+                                                                    [1] => http://schema.org/MobileWebPlatform
+                                                                    [2] => http://schema.org/IOSPlatform
+                                                                    [3] => http://schema.googleapis.com/GoogleVideoCast
+                                                                )
+
+                                                        )
+
+                                                )
+
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+            [21] => Array
+                (
+                    [poster] => https://i2.wp.com/terbit21.co/wp-content/uploads/2020/05/wlm7hrFbvTo4w3EPegL20wZqezz.jpg
+                    [rating] => 0
+                    [quality] => HD
+                    [categories] => Family,Taiwan,WEBDL,1080,Indonesia,2018
+                    [downloadLink] => https://t21.press/download/sen-sen-2017/
+                    [options] => Array
+                        (
+                            [@context] => http://schema.org
+                            [@id] => https://149.56.198.206/sen-sen-2017/
+                            [@type] => Movie
+                            [name] => Sen Sen (2017)
+                            [url] => https://149.56.198.206/sen-sen-2017/
+                            [image] => https://149.56.198.206/wp-content/uploads/2020/05/wlm7hrFbvTo4w3EPegL20wZqezz.jpg
+                            [datePublished] => 2020-05-07T22:31:04+07:00
+                            [sameAs] => http://www.imdb.com/title/tt7861586/
+                            [director] => Array
+                                (
+                                    [0] => Array
+                                        (
+                                            [@type] => Person
+                                            [name] => Bon An
+                                        )
+
+                                )
+
+                            [genre] => Array
+                                (
+                                    [0] => Family
+                                )
+
+                            [dateCreated] => 2018-08-30
+                            [duration] => PT103M
+                            [aggregateRating] => Array
+                                (
+                                    [@type] => AggregateRating
+                                    [ratingValue] => 2.1
+                                    [reviewCount] => 5
+                                    [bestRating] => 10
+                                    [worstRating] => 1
+                                )
+
+                            [hasPart] => Array
+                                (
+                                    [@type] => Clip
+                                    [description] => trailer
+                                    [potentialAction] => Array
+                                        (
+                                            [@type] => WatchAction
+                                            [target] => Array
+                                                (
+                                                    [0] => Array
+                                                        (
+                                                            [@type] => EntryPoint
+                                                            [urlTemplate] => https://www.youtube.com/watch?v=5c5C7Z251KA
+                                                            [inLanguage] => en
+                                                            [actionPlatform] => Array
+                                                                (
+                                                                    [0] => http://schema.org/DesktopWebPlatform
+                                                                    [1] => http://schema.org/MobileWebPlatform
+                                                                    [2] => http://schema.org/IOSPlatform
+                                                                    [3] => http://schema.googleapis.com/GoogleVideoCast
+                                                                )
+
+                                                        )
+
+                                                )
+
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+            [22] => Array
+                (
+                    [poster] => https://i2.wp.com/terbit21.co/wp-content/uploads/2022/03/eSduohMZEVQHmYQKFFTkDi2ko6C.jpg
+                    [rating] => 6.7
+                    [quality] => HD
+                    [categories] => Comedy,Drama,Romance,Canada,Usa,WEBRip,1080,Indonesia,2022
+                    [downloadLink] => https://t21.press/download/feeling-butterflies-2022/
+                    [options] => Array
+                        (
+                            [@context] => http://schema.org
+                            [@id] => https://149.56.198.206/feeling-butterflies-2022/
+                            [@type] => Movie
+                            [name] => Feeling Butterflies (2022)
+                            [url] => https://149.56.198.206/feeling-butterflies-2022/
+                            [image] => https://149.56.198.206/wp-content/uploads/2022/03/eSduohMZEVQHmYQKFFTkDi2ko6C.jpg
+                            [datePublished] => 2022-03-26T22:18:21+07:00
+                            [sameAs] => http://www.imdb.com/title/tt18313970/
+                            [director] => Array
+                                (
+                                    [0] => Array
+                                        (
+                                            [@type] => Person
+                                            [name] => MJ Grabiak
+                                        )
+
+                                )
+
+                            [genre] => Array
+                                (
+                                    [0] => Comedy
+                                )
+
+                            [dateCreated] => 2022-03-01
+                            [duration] => PT85M
+                            [aggregateRating] => Array
+                                (
+                                    [@type] => AggregateRating
+                                    [ratingValue] => 6.7
+                                    [reviewCount] => 472
+                                    [bestRating] => 10
+                                    [worstRating] => 1
+                                )
+
+                            [hasPart] => Array
+                                (
+                                    [@type] => Clip
+                                    [description] => trailer
+                                    [potentialAction] => Array
+                                        (
+                                            [@type] => WatchAction
+                                            [target] => Array
+                                                (
+                                                    [0] => Array
+                                                        (
+                                                            [@type] => EntryPoint
+                                                            [urlTemplate] => https://www.youtube.com/watch?v=7g76Xefdlfk
+                                                            [inLanguage] => en
+                                                            [actionPlatform] => Array
+                                                                (
+                                                                    [0] => http://schema.org/DesktopWebPlatform
+                                                                    [1] => http://schema.org/MobileWebPlatform
+                                                                    [2] => http://schema.org/IOSPlatform
+                                                                    [3] => http://schema.googleapis.com/GoogleVideoCast
+                                                                )
+
+                                                        )
+
+                                                )
+
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+            [23] => Array
+                (
+                    [poster] => https://i2.wp.com/terbit21.co/wp-content/uploads/2022/03/btTbG2BGuyL9s3Ne3GFZMKB8oBT.jpg
+                    [rating] => 4.9
+                    [quality] => HD
+                    [categories] => Comedy,Usa,WEBRip,1080,Indonesia,2009
+                    [downloadLink] => https://t21.press/download/finding-bliss-2009/
+                    [options] => Array
+                        (
+                            [@context] => http://schema.org
+                            [@id] => https://149.56.198.206/finding-bliss-2009/
+                            [@type] => Movie
+                            [name] => Finding Bliss (2009)
+                            [url] => https://149.56.198.206/finding-bliss-2009/
+                            [image] => https://149.56.198.206/wp-content/uploads/2022/03/btTbG2BGuyL9s3Ne3GFZMKB8oBT.jpg
+                            [datePublished] => 2022-03-26T22:16:10+07:00
+                            [sameAs] => http://www.imdb.com/title/tt1185242/
+                            [director] => Array
+                                (
+                                    [0] => Array
+                                        (
+                                            [@type] => Person
+                                            [name] => Julie Davis
+                                        )
+
+                                )
+
+                            [genre] => Array
+                                (
+                                    [0] => Comedy
+                                )
+
+                            [dateCreated] => 2009-01-01
+                            [duration] => PT96M
+                            [aggregateRating] => Array
+                                (
+                                    [@type] => AggregateRating
+                                    [ratingValue] => 4.9
+                                    [reviewCount] => 47
+                                    [bestRating] => 10
+                                    [worstRating] => 1
+                                )
+
+                            [hasPart] => Array
+                                (
+                                    [@type] => Clip
+                                    [description] => trailer
+                                    [potentialAction] => Array
+                                        (
+                                            [@type] => WatchAction
+                                            [target] => Array
+                                                (
+                                                    [0] => Array
+                                                        (
+                                                            [@type] => EntryPoint
+                                                            [urlTemplate] => https://www.youtube.com/watch?v=5c5C7Z251KA
+                                                            [inLanguage] => en
+                                                            [actionPlatform] => Array
+                                                                (
+                                                                    [0] => http://schema.org/DesktopWebPlatform
+                                                                    [1] => http://schema.org/MobileWebPlatform
+                                                                    [2] => http://schema.org/IOSPlatform
+                                                                    [3] => http://schema.googleapis.com/GoogleVideoCast
+                                                                )
+
+                                                        )
+
+                                                )
+
+                                        )
+
+                                )
+
+                        )
+
+                )
+
+        )
+
+    [totalItems] => 24
+    [totalPages] => 2171
+    [currentPage] => 1
+)
