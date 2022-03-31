@@ -10,18 +10,24 @@ $result = json_decode($response->getBody()->getContents(), true)['data'];
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Latest Movie LK21</title>
+    <!-- <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.2/dist/js/bootstrap.min.js" integrity="sha384-cVKIPhGWiC2Al4u+LWgxfKTRIcfu0JTxR+EQDz/bgldoEyl4H0zUF0QKbrJ0EcQF" crossorigin="anonymous"></script> -->
+    <script src="https://cdn.tailwindcss.com"></script>
+    <title>Trending Movie LK21</title>
 </head>
 <body>
-<?php foreach($result as $mv): ?>
-    <ul>
-        <img src="<?= $mv['options']['image'] ?>" alt="">
-        <li>Nama : <?= $mv['options']['name']?></li>
-        <li>Tahun : <?= $mv['categories']?> </li>
-        <li>Kualitas : <?= $mv['quality']?> </li>
-        <li>Link : <?= $mv['downloadLink']?> </li>
-        <li>Tahun : <?= $mv['categories']?> </li>
-    </ul>
-<?php endforeach;?>
+<div class="p-10 grid grid-cols-1 sm:grid-cols-1 md:grid-cols-3 lg:grid-cols-3 xl:grid-cols-3 gap-5">
+        <?php foreach($result as $mv): ?>
+            <div class="max-w-sm rounded overflow-auto shadow-lg">
+                <img class="w-full" src="<?= $mv['options']['image'] ?>">
+                <div class="px-6 py-4">
+                    <div class="font-bold text-xl mb-2"><?= $mv['options']['name']?> <?= $mv['quality']?></div>
+                    <a href="<?= $mv['downloadLink']?> " class="text-gray-700 text-base"> Klik disini untuk mendownload</a>
+                </div>
+                <div class="px-6 pt-4 pb-2">
+                    <span class="inline-block bg-gray-200 rounded-full px-3 py-1 text-sm font-semibold text-gray-700 mr-2 mb-2"><?= $mv['categories'] ?></span>
+                </div>
+            </div>
+        <?php endforeach;?>
+    </div>
 </body>
 </html>
